@@ -1,0 +1,24 @@
+Academia Sinica CDP EUDC font license
+
+Copyright Academia Sinica, Taiwan.
+
+The embedded font name table also contains this notice:
+
+    (c) Copyright Avector Tech. Ltd. 1996
+
+Academia Sinica's release statement offers the Chinese Character Assembling
+Fonts, when treated as separate works, under either the GNU Free Documentation
+License 1.2 or the Creative Commons Attribution-ShareAlike 2.5 Taiwan license.
+This package elects the Creative Commons Attribution-ShareAlike 2.5 Taiwan
+option.
+
+Canonical license URI:
+https://creativecommons.org/licenses/by-sa/2.5/tw/
+
+The exact upstream release statement in Chinese and English is included in
+UPSTREAM-LICENSE.md. The exact PDF copy of the legal code linked by that
+release statement is included in LICENSE.CC-BY-SA-2.5-TW.pdf.
+
+The font data is unmodified. Only the filename extensions have changed from
+.tte to .ttf after validation that both files are standard TrueType sfnt fonts.
+See NOTICE.md for attribution and SOURCE.md for provenance and checksums.

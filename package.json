@@ -1,0 +1,47 @@
+{
+  "name": "fontpkg-eudc",
+  "version": "1.0.0",
+  "description": "Font package for the Academia Sinica CDP EUDC components, including U+EF3A",
+  "keywords": [
+    "font",
+    "fonts",
+    "ttf",
+    "truetype",
+    "unicode",
+    "private-use-area",
+    "pua",
+    "eudc",
+    "cdp",
+    "cjk",
+    "Academia Sinica"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "style": "index.css",
+  "scripts": {
+    "test": "node scripts/verify-fonts.mjs",
+    "prepublishOnly": "npm test"
+  },
+  "files": [
+    "cdpeudc.ttf",
+    "cdpeudck.ttf",
+    "index.css",
+    "scripts/verify-fonts.mjs",
+    "LICENSE",
+    "LICENSE.CC-BY-SA-2.5-TW.pdf",
+    "NOTICE.md",
+    "SOURCE.md",
+    "UPSTREAM-LICENSE.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonsilicon/fontpkg-eudc.git"
+  },
+  "homepage": "https://github.com/leonsilicon/fontpkg-eudc#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

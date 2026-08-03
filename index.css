@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Academia Sinica CDP EUDC Ming";
+  src: url("./cdpeudc.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  unicode-range: U+E000-F848;
+}
+
+@font-face {
+  font-family: "Academia Sinica CDP EUDC Kai";
+  src: url("./cdpeudck.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  unicode-range: U+E000-F848;
+}
